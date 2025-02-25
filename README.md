@@ -1,2 +1,2 @@
 # web-programming
-[CV](roflanebalo32.github.io/web-programming/cv)
+[CV](https://roflanebalo32.github.io/web-programming/cv)
